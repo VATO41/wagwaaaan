@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "pirveli";
+    src: url(fonts/JacquesFrancoisShadow-Regular.ttf);
+}
+.h2{
+    font-family: "pirveli";
+}
+.p{
+    font-family: "pirveli";
+}
+@font-face {
+    font-family: "moere";
+    src: url(fonts/OriginalSurfer-Regular.ttf);
+}
+@font-face {
+    font-family: "mesame";
+    src: url(fonts/Play-Bold.ttf);
+}
+.a{
+    font-family: "mesame";
+}
